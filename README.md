@@ -12,3 +12,6 @@ GO
 
 ALTER TABLE [dbo].[Client] CHECK CONSTRAINT [FK_Client_Gender]
 GO
+
+
+https://learn.microsoft.com/ru-Ru/visualstudio/data-tools/create-a-simple-data-application-with-wpf-and-entity-framework-6?view=vs-2022
